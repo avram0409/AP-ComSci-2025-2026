@@ -1,6 +1,6 @@
 
 
-//page 2
+//page2
 7641
 -17200
 
@@ -19,7 +19,7 @@
 125 / (5 * 2)
 (300 + 520 + 460) / (7 / 2)
 
-//page 4
+//page4
 // hello this is A TEST
 34 + 56 + 330
 // 200 + 34 + 45
@@ -28,9 +28,60 @@
 20000 + 30000000 + 100000000
 // Minutes of gutiarpractice: Two weeks ago, last week, and this week
     1 + 1 + 0
-//page6
 1/0 Division by zero
 1/34
 
 2 + 2
+
+//page6
+
+let numberOfDogs = 6 + 2
+
+let numberOfCats = 5 - 1
+
+let numberOfTurtles = 2 + 1
+
+let numberOfHamsters = 1 + 1
+
+let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberOfFish + numberOfSnakes
+
+let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPigs
+
+let numberOfPigs = 1
+
+let numberOfFish = 1
+
+let numberOfSnakes = 1
+
+//page10
+let numberOfTickets = 150
+let ticketPrice = 10
+let roomRentalFee = 1000
+let posterCost = 40
+let ticketValue = numberOfTickets * ticketPrice
+let totalValue = roomRentalFee + posterCost
+let totalIncomeOfShow = (numberOfTickets * ticketPrice) - (roomRentalFee + posterCost)
+
+//page11
+let ticketsSold = 1000
+let ticketPrice = 3
+let printingCosts = 20
+let advertising = 50
+// Total takings
+let totalTakings = ticketPrice * ticketsSold
+
+// Jackpot
+let jackpot = totalTakings / 2
+
+// Expenses
+let totalExpenses = printingCosts + advertising
+
+// Profit
+let profit = totalTakings - jackpot - totalExpenses
+
+// Distribution
+let programmersCut = profit / 10 // This is the answer you want to get > 100! 👉 143
+let friendsCut = profit - programmersCut
+
+//page12
 
