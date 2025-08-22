@@ -84,4 +84,9 @@ let programmersCut = profit / 10 // This is the answer you want to get > 100! ðŸ
 let friendsCut = profit - programmersCut
 
 //page12
+let currentAmmountOfSpaceTaken = 3000
+let totalAmountOfSpace = 8000
+let oneMinuteOfVideo = 150
+let onegigabyte = 1000
+5*onegigabyte / oneMinuteOfVideo
 
