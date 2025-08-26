@@ -90,3 +90,27 @@ let oneMinuteOfVideo = 150
 let onegigabyte = 1000
 5*onegigabyte / oneMinuteOfVideo
 
+//page 13
+let brushTeeth = 3
+let combHair = 1
+let putOnClothes = 2
+let rideToSchool = 45
+
+let morningRoutine =  brushTeeth  + combHair + putOnClothes + rideToSchool
+
+let thingsINeedToDo = morningRoutine
+let thingsIwantToDo = goForAJog 
+let thingsIDontWantToDo = rideToSchool + wakeUp
+
+//page14
+let orangePallet = 14 //how many pallets of oranges ordered
+let watermellonPallet  = 3 // how many watermellon pallets ordered
+let orangeWeight = 100
+let watermellonWeight = 200
+let TotalOranges = orangePallet * orangeWeight
+let totalWatermellon = watermellonPallet * watermellonWeight
+let totalTruckLoad = TotalOranges + totalWatermellon
+let eachShipment = totalTruckLoad / 2
+let leftTruck = eachShipment / orangeWeight
+let rightTruck = TotalOranges - leftTruck
+
