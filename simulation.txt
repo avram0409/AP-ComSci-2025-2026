@@ -1,0 +1,20 @@
+//page3
+numberOfAnts = 177
+antSpeed = 320
+//pagge4 
+environmentCellSize = 15
+numberOfAnts = 2296
+pheromoneEvaporationRate = 472
+pheromoneDepositRate = 50037509
+//page5
+homePheromoneDepositRate = 256
+foodPheromoneDepositRate = 294
+homePheromoneEvaporationRate = 103
+foodPheromoneEvaporationRate = 458
+
+environmentCellSize = 39
+numberOfAnts = 122
+
+numberOfAnts = 122
+antSpeed = 230
+//page
